@@ -30,7 +30,7 @@ Git is a very secure VCS. This is because Git uses cryptography to protect your 
 Overall, Git is a great VCS for any software development project. It is fast, secure, and easy to use.
 
 
-- Here are some additional benefits of using Git:
+-Here are some additional benefits of using Git:
   
 1) Branching:
 
