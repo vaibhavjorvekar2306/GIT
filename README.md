@@ -10,7 +10,7 @@
 
 Git is a distributed version control system (VCS) that enables you to store code, track revision history, merge code changes, and revert to earlier code version when needed. Git stores your source code and its full development history locally in a repository.
 
--Here are some of the reasons why you should use Git:
+--> Here are some of the reasons why you should use Git:
 
 1) Version control:
    
